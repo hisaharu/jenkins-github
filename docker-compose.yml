@@ -1,0 +1,6 @@
+jenkins:
+  build: .
+  container_name: jenkins
+  volumes:
+    - ./jenkins_home:/var/jenkins_home:rw
+

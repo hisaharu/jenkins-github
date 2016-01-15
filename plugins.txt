@@ -1,0 +1,15 @@
+credentials
+ghprb
+git
+git-client
+github
+github-api
+junit
+mailer
+matrix-project
+plain-credentials
+scm-api
+ssh-agent
+ssh-credentials
+token-macro
+workflow-step-api
