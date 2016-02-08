@@ -1,8 +1,9 @@
 jenkins:
-  build: .
+  image: hisaharu/jenkins-github
   container_name: jenkins
   volumes:
     - ./jenkins_home:/var/jenkins_home:rw
   ports:
     - "8080:8080"
+    - "80:8080"
 
