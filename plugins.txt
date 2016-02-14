@@ -10,6 +10,7 @@ junit
 mailer
 matrix-project
 plain-credentials
+role-strategy
 scm-api
 ssh-agent
 ssh-credentials
