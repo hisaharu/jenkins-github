@@ -1,9 +1,11 @@
+conditional-buildstep
 credentials
 ghprb
 git
 git-client
 github
 github-api
+github-oauth
 junit
 mailer
 matrix-project
